@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite For Firefox" parallel="none" thread-count="3">
+	<parameter name="aggregatorName" value="QZ" />
+
+	<test name="Sandbox Tests1" preserve-order="true">
+		<parameter name="browser" value="Firefox" />
+		<parameter name="aggregatorName" value="QZ" />
+		<classes>
+			<!--Todo: Add Test classes -->
+
+		</classes>
+	</test>
+
+</suite> 
