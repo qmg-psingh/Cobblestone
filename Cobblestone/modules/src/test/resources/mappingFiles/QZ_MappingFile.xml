@@ -1,0 +1,2284 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<questions>
+	<question>
+		<aggregatorquestions>
+			<question>What sort of property is it?</question>
+		</aggregatorquestions>
+		<pequestions>
+			<question>What type of property is it?</question>
+		</pequestions>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>House</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>House</peanswer>
+			</peanswers>
+		</answer>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>Flat/Apartment</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>Flat/Apartment</peanswer>
+			</peanswers>
+		</answer>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>Bungalow</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>Bungalow</peanswer>
+			</peanswers>
+		</answer>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>Town House</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>House</peanswer>
+			</peanswers>
+		</answer>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>Other</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>Other</peanswer>
+			</peanswers>
+		</answer>
+	</question>
+	<question>
+		<aggregatorquestions>
+			<question>What type of property is it?</question>
+		</aggregatorquestions>
+		<pequestions>
+			<question>Which of these best describes your property?</question>
+		</pequestions>
+		<answer tag="House">
+			<aggregatoranswers>
+				<aggregatoranswer>Detached</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>Detached house</peanswer>
+			</peanswers>
+		</answer>
+		<answer tag="House">
+			<aggregatoranswers>
+				<aggregatoranswer>Semi-detached</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>Semi-detached house</peanswer>
+			</peanswers>
+		</answer>
+		<answer tag="House">
+			<aggregatoranswers>
+				<aggregatoranswer>Link detached</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>Detached house</peanswer>
+			</peanswers>
+		</answer>
+		<answer tag="House">
+			<aggregatoranswers>
+				<aggregatoranswer>Terrace</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>Mid terrace</peanswer>
+			</peanswers>
+		</answer>
+		<answer tag="House">
+			<aggregatoranswers>
+				<aggregatoranswer>End terrace</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>End terrace</peanswer>
+			</peanswers>
+		</answer>
+		<answer tag="Bungalow">
+			<aggregatoranswers>
+				<aggregatoranswer>Detached</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>Detached bungalow</peanswer>
+			</peanswers>
+		</answer>
+		<answer tag="Bungalow">
+			<aggregatoranswers>
+				<aggregatoranswer>Semi-detached</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>Semi-detached bungalow</peanswer>
+			</peanswers>
+		</answer>
+		<answer tag="Bungalow">
+			<aggregatoranswers>
+				<aggregatoranswer>Link detached</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>Detached bungalow</peanswer>
+			</peanswers>
+		</answer>
+		<answer tag="Bungalow">
+			<aggregatoranswers>
+				<aggregatoranswer>Terrace</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>Terrace bungalow</peanswer>
+			</peanswers>
+		</answer>
+		<answer tag="Bungalow">
+			<aggregatoranswers>
+				<aggregatoranswer>End terrace</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>Terrace bungalow</peanswer>
+			</peanswers>
+		</answer>
+		<answer tag="Flat/Apartment">
+			<aggregatoranswers>
+				<aggregatoranswer>Purpose built (Self-contained)</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>Flat: Ground floor or basement - purpose built</peanswer>
+			</peanswers>
+		</answer>
+		<answer tag="Flat/Apartment">
+			<aggregatoranswers>
+				<aggregatoranswer>Converted (Self-contained)</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>Flat: Ground floor or basement - converted</peanswer>
+			</peanswers>
+		</answer>
+		<answer tag="Flat/Apartment">
+			<aggregatoranswers>
+				<aggregatoranswer>Purpose built (Other)</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>Flat: First floor or above - purpose built</peanswer>
+			</peanswers>
+		</answer>
+		<answer tag="Flat/Apartment">
+			<aggregatoranswers>
+				<aggregatoranswer>Converted (Other)</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>Flat: First floor or above - purpose built</peanswer>
+			</peanswers>
+		</answer>
+		<answer tag="Flat/Apartment">
+			<aggregatoranswers>
+				<aggregatoranswer>Maisonette - Converted</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>Maisonette (flat)</peanswer>
+			</peanswers>
+		</answer>
+		<answer tag="Flat/Apartment">
+			<aggregatoranswers>
+				<aggregatoranswer>Maisonette – Purpose built</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>Maisonette (flat)</peanswer>
+			</peanswers>
+		</answer>
+		<answer tag="Town House">
+			<aggregatoranswers>
+				<aggregatoranswer>Detached</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>Detached house</peanswer>
+			</peanswers>
+		</answer>
+		<answer tag="Town House">
+			>
+			<aggregatoranswers>
+				<aggregatoranswer>Semi-detached</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>Semi-detached house</peanswer>
+			</peanswers>
+		</answer>
+		<answer tag="Town House">
+			>
+			<aggregatoranswers>
+				<aggregatoranswer>Link detached</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>Detached house</peanswer>
+			</peanswers>
+		</answer>
+		<answer tag="Town House">
+			>
+			<aggregatoranswers>
+				<aggregatoranswer>Terrace</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>Mid terrace</peanswer>
+			</peanswers>
+		</answer>
+		<answer tag="Town House">
+			>
+			<aggregatoranswers>
+				<aggregatoranswer>End terrace</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>End terrace</peanswer>
+			</peanswers>
+		</answer>
+		<answer tag="Other">
+			<aggregatoranswers>
+				<aggregatoranswer>Bedsit</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>Other</peanswer>
+			</peanswers>
+		</answer>
+		<answer tag="Other">
+			<aggregatoranswers>
+				<aggregatoranswer>Halls of Residence</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>Other</peanswer>
+			</peanswers>
+		</answer>
+	</question>
+	<question>
+		<aggregatorquestions>
+			<question>Floor number?</question>
+		</aggregatorquestions>
+		<pequestions>
+			<question>Are there more than 10 flats within the building?</question>
+			<question>Are there more than 4 floors within the building?</question>
+		</pequestions>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>Basement</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>No</peanswer>
+				<peanswer>No</peanswer>
+			</peanswers>
+		</answer>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>Ground Floor</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>No</peanswer>
+				<peanswer>No</peanswer>
+			</peanswers>
+		</answer>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>1st Floor</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>No</peanswer>
+				<peanswer>No</peanswer>
+			</peanswers>
+		</answer>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>2nd Floor and above</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>No</peanswer>
+				<peanswer>No</peanswer>
+			</peanswers>
+		</answer>
+	</question>
+	<question>
+		<aggregatorquestions>
+			<question>How many rooms does the property have?</question>
+			<question>Bedrooms</question>
+			<question>Living room/lounges</question>
+			<question>Bathroom</question>
+			<question>Kitchen</question>
+			<question>Other Room</question>
+		</aggregatorquestions>
+		<pequestions>
+			<question>How many bedrooms does your property have?</question>
+		</pequestions>
+	</question>
+	<question>
+		<aggregatorquestions>
+			<question>Approximately what year was your property built?</question>
+		</aggregatorquestions>
+		<pequestions>
+			<question>Approximately in which year was your property built?</question>
+		</pequestions>
+	</question>
+	<question>
+		<aggregatorquestions>
+			<question>Are there trees taller than 10 metres within 5 metres of
+				your building?</question>
+		</aggregatorquestions>
+		<pequestions>
+			<question>Are there trees taller than 10 metres within 5 metres of
+				your property?</question>
+		</pequestions>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>Yes</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>Yes</peanswer>
+			</peanswers>
+		</answer>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>No</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>No</peanswer>
+			</peanswers>
+		</answer>
+	</question>
+	<question>
+		<aggregatorquestions>
+			<question>What is the roof made of?</question>
+		</aggregatorquestions>
+		<pequestions>
+			<question>The roof is made of tile or slate</question>
+			<question>The roof is made of...</question>
+		</pequestions>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>Slates</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>I agree</peanswer>
+				<peanswer>Tile or slate</peanswer>
+			</peanswers>
+		</answer>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>Tiles</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>I agree</peanswer>
+				<peanswer>Tile or slate</peanswer>
+			</peanswers>
+		</answer>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>Asphalt</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>I disagree</peanswer>
+				<peanswer>Asphalt</peanswer>
+			</peanswers>
+		</answer>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>Asbestos</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>I disagree</peanswer>
+				<peanswer>Asbestos</peanswer>
+			</peanswers>
+		</answer>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>Concrete</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>I disagree</peanswer>
+				<peanswer>Concrete</peanswer>
+			</peanswers>
+		</answer>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>Corrugated iron</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>I disagree</peanswer>
+				<peanswer>Other</peanswer>
+			</peanswers>
+		</answer>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>Felt on timber</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>I disagree</peanswer>
+				<peanswer>Timber/felt on timber</peanswer>
+			</peanswers>
+		</answer>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>Glass</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>I disagree</peanswer>
+				<peanswer>Other</peanswer>
+			</peanswers>
+		</answer>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>Shingle</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>I disagree</peanswer>
+				<peanswer>Shingle</peanswer>
+			</peanswers>
+		</answer>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>Thatch</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>I disagree</peanswer>
+				<peanswer>Thatch</peanswer>
+			</peanswers>
+		</answer>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>Timber</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>I disagree</peanswer>
+				<peanswer>Timber/felt on timber</peanswer>
+			</peanswers>
+		</answer>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>Other</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>I disagree</peanswer>
+				<peanswer>Other</peanswer>
+			</peanswers>
+		</answer>
+	</question>
+	<question>
+		<aggregatorquestions>
+			<question>What percentage of your roof area is flat?</question>
+		</aggregatorquestions>
+		<pequestions>
+			<question>Does your property have a flat roof?</question>
+			<question>What percentage of your roof is flat?</question>
+		</pequestions>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>0%</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>No</peanswer>
+			</peanswers>
+		</answer>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>Approx. 1% - 10%</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>Yes</peanswer>
+				<peanswer>Less than 20%</peanswer>
+			</peanswers>
+		</answer>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>Approx. 11% - 20%</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>Yes</peanswer>
+				<peanswer>Less than 20%</peanswer>
+			</peanswers>
+		</answer>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>Approx. 21% - 50%</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>YYes</peanswer>
+				<peanswer>40% - 50%</peanswer>
+			</peanswers>
+		</answer>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>Over 50%</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>Yes</peanswer>
+				<peanswer>More than 50%</peanswer>
+			</peanswers>
+		</answer>
+	</question>
+
+	<question>
+		<aggregatorquestions>
+			<question>Are the statements below correct?</question>
+		</aggregatorquestions>
+		<pequestions>
+			<question>Are the statements below correct?</question>
+		</pequestions>
+	</question>
+	<question>
+		<aggregatorquestions>
+			<question>What are the exterior walls made of?</question>
+		</aggregatorquestions>
+		<pequestions>
+			<question>The walls are made of brick, stone or concrete</question>
+			<question>The walls are made of…</question>
+		</pequestions>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>Brick</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>I agree</peanswer>
+				<peanswer>Brick stone or concrete walls</peanswer>
+			</peanswers>
+		</answer>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>Stone</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>I agree</peanswer>
+				<peanswer>Brick stone or concrete walls</peanswer>
+			</peanswers>
+		</answer>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>Brick on timber frame</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>I disagree</peanswer>
+				<peanswer>Other</peanswer>
+			</peanswers>
+		</answer>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>Asbestos</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>I disagree</peanswer>
+				<peanswer>Asbestos</peanswer>
+			</peanswers>
+		</answer>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>Stone on timber frame</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>I disagree</peanswer>
+				<peanswer>Other</peanswer>
+			</peanswers>
+		</answer>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>Timber frame</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>I disagree</peanswer>
+				<peanswer>Timber/plaster (without brick shell)</peanswer>
+			</peanswers>
+		</answer>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>Timber frame with plaster panels</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>I disagree</peanswer>
+				<peanswer>Timber/plaster (without brick shell)</peanswer>
+			</peanswers>
+		</answer>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>Glass</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>I disagree</peanswer>
+				<peanswer>Other</peanswer>
+			</peanswers>
+		</answer>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>Prefabricated – non-combustible</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>I disagree</peanswer>
+				<peanswer>Prefabricated</peanswer>
+			</peanswers>
+		</answer>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>Prefabricated - combustible</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>I disagree</peanswer>
+				<peanswer>Prefabricated</peanswer>
+			</peanswers>
+		</answer>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>Flint</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>I disagree</peanswer>
+				<peanswer>Other</peanswer>
+			</peanswers>
+		</answer>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>Corrugated iron</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>I disagree</peanswer>
+				<peanswer>Other</peanswer>
+			</peanswers>
+		</answer>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>Other</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>I disagree</peanswer>
+				<peanswer>Other</peanswer>
+			</peanswers>
+		</answer>
+	</question>
+	<question>
+		<aggregatorquestions>
+			<question>Is there a history of subsidence, landslip or heave in the
+				property or in its surrounding area?</question>
+		</aggregatorquestions>
+		<pequestions>
+			<question>To the best of your knowledge neighbouring properties have
+				NOT suffered from subsidence, landslip, heave or river erosion
+				within the last 10 years</question>
+		</pequestions>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>Yes</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>I disagree</peanswer>
+			</peanswers>
+		</answer>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>No</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>I agree</peanswer>
+			</peanswers>
+		</answer>
+	</question>
+	<question>
+		<aggregatorquestions>
+			<question>Has the property ever had underpinning or structual
+				support?</question>
+		</aggregatorquestions>
+		<pequestions>
+			<question>Your property has NOT been subject to subsidence or had
+				structural support or underpinning within the last 10 years</question>
+		</pequestions>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>Yes</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>I disagree</peanswer>
+			</peanswers>
+		</answer>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>No</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>I agree</peanswer>
+			</peanswers>
+		</answer>
+	</question>
+	<question>
+		<aggregatorquestions>
+			<question>Is there a history of flooding in the property or in its
+				surrounding area?</question>
+		</aggregatorquestions>
+		<pequestions>
+			<question>Your property or any property within 100m of your boundary
+				wall has NOT been affected by flood within the last 10 years</question>
+		</pequestions>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>Yes</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>I disagree</peanswer>
+			</peanswers>
+		</answer>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>No</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>I agree</peanswer>
+			</peanswers>
+		</answer>
+	</question>
+	<question>
+		<aggregatorquestions>
+			<question>Is there any building work in progress?</question>
+		</aggregatorquestions>
+		<pequestions>
+			<question>IsIt is NOT undergoing any major building works e.g.
+				renovations, structural alterations or flood damage repairs?</question>
+		</pequestions>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>Yes</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>I disagree</peanswer>
+			</peanswers>
+		</answer>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>No</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>I agree</peanswer>
+			</peanswers>
+		</answer>
+	</question>
+	<question>
+		<aggregatorquestions>
+			<question>How far away is the nearest river or watercourse?</question>
+		</aggregatorquestions>
+		<pequestions>
+			<question></question>
+		</pequestions>
+	</question>
+
+	<question>
+		<aggregatorquestions>
+			<question>Is your property a listed building?</question>
+		</aggregatorquestions>
+		<pequestions>
+			<question>It is NOT a listed building</question>
+			<question>Please select the type of listing</question>
+		</pequestions>
+		<answer>
+			<aggregatoranswers>Not listed</aggregatoranswers>
+			<peanswers>
+				<peanswer>I agree</peanswer>
+			</peanswers>
+		</answer>
+		<answer>
+			<aggregatoranswers>Grade 2 listed building</aggregatoranswers>
+			<peanswers>I disagree</peanswers>
+			<peanswers>Grade II listed</peanswers>
+		</answer>
+		<answer>
+			<aggregatoranswers>Grade 1 listed building</aggregatoranswers>
+			<peanswers>I disagree</peanswers>
+			<peanswers>Grade I listed</peanswers>
+		</answer>
+		<answer>
+			<aggregatoranswers>Preservation order</aggregatoranswers>
+			<peanswers>I disagree</peanswers>
+			<peanswers>Preservation order</peanswers>
+		</answer>
+	</question>
+	<question>
+		<aggregatorquestions>
+			<question>Is this property your main residence?</question>
+		</aggregatorquestions>
+		<pequestions>
+			<question>It is your main residence</question>
+			<question>What is your property used for?</question>
+		</pequestions>
+		<answer>
+			<aggregatoranswers>Yes</aggregatoranswers>
+			<peanswers>
+				<peanswer>I agree</peanswer>
+			</peanswers>
+		</answer>
+
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>No, it's a weekend home</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>I disagree</peanswer>
+				<peanswer>A holiday home for you</peanswer>
+			</peanswers>
+		</answer>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>No, it's a holiday home</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswers>
+					<peanswer>I disagree</peanswer>
+					<peanswer>A holiday home for you</peanswer>
+				</peanswers>
+			</peanswers>
+		</answer>
+
+	</question>
+
+	<question>
+		<aggregatorquestions>
+			<question>Is the property for sale?</question>
+		</aggregatorquestions>
+
+	</question>
+
+	<question>
+		<aggregatorquestions>
+			<question>Is the property in good state of repair?</question>
+		</aggregatorquestions>
+		<pequestions>
+			<question>Your property is in a good state of repair</question>
+		</pequestions>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>Yes</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>I agree</peanswer>
+			</peanswers>
+		</answer>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>No</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>I disagree</peanswer>
+			</peanswers>
+		</answer>
+
+	</question>
+
+
+
+	<question>
+		<aggregatorquestions>
+			<question>Property Ownership?</question>
+		</aggregatorquestions>
+		<pequestions>
+			<question>Do you own the property?</question>
+		</pequestions>
+	</question>
+	<answer>
+		<aggregatoranswers>
+			<aggregatoranswer>Yes – mortgaged</aggregatoranswer>
+		</aggregatoranswers>
+		<peanswers>
+			<peanswer>Yes – mortgaged</peanswer>
+		</peanswers>
+	</answer>
+	<answer>
+		<aggregatoranswers>
+			<aggregatoranswer>Renting – council, furnished</aggregatoranswer>
+		</aggregatoranswers>
+		<peanswers>
+			<peanswer>No - rented furnished</peanswer>
+		</peanswers>
+	</answer>
+	<answer>
+		<aggregatoranswers>
+			<aggregatoranswer>Renting – council, unfurnished</aggregatoranswer>
+		</aggregatoranswers>
+		<peanswers>
+			<peanswer>No - rented unfurnished</peanswer>
+		</peanswers>
+	</answer>
+	<answer>
+		<aggregatoranswers>
+			<aggregatoranswer>Renting – private, furnished</aggregatoranswer>
+		</aggregatoranswers>
+		<peanswers>
+			<peanswer>No - rented furnished</peanswer>
+		</peanswers>
+	</answer>
+	<answer>
+		<aggregatoranswers>
+			<aggregatoranswer>Renting – private, unfurnished</aggregatoranswer>
+		</aggregatoranswers>
+		<peanswers>
+			<peanswer>No - rented unfurnished</peanswer>
+		</peanswers>
+	</answer>
+	<answer>
+		<aggregatoranswers>
+			<aggregatoranswer>Housing Association</aggregatoranswer>
+		</aggregatoranswers>
+		<peanswers>
+			<peanswer>No - rented unfurnished</peanswer>
+		</peanswers>
+	</answer>
+	<answer>
+		<aggregatoranswers>
+			<aggregatoranswer>Yes – owned outright</aggregatoranswer>
+		</aggregatoranswers>
+		<peanswers>
+			<peanswer>Yes - owned outright</peanswer>
+		</peanswers>
+	</answer>
+
+	<question>
+		<aggregatorquestions>
+			<question>When was the property purchased?</question>
+		</aggregatorquestions>
+
+	</question>
+
+	<question>
+		<aggregatorquestions>
+			<question>How many years have you lived here?</question>
+		</aggregatorquestions>
+
+	</question>
+
+
+	<question>
+		<aggregatorquestions>
+			<question>Who is the property occupied by?</question>
+		</aggregatorquestions>
+		<pequestions>
+			<question>Who is the property occupied by?</question>
+			<question>How many lodgers / paying guests do you have?</question>
+			<question>What is the length of the minimum stay in months?</question>
+			<question>How do you obtain your lodgers?</question>
+		</pequestions>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>Policyholder only</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>You as sole occupier</peanswer>
+			</peanswers>
+		</answer>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>Policyholder and immediate family</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>You and your family</peanswer>
+			</peanswers>
+		</answer>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>Policyholder and immediate family and/or partner’s
+					family</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>You and your family</peanswer>
+			</peanswers>
+		</answer>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>Policyholder and lodgers</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>You and your family with paying guests / lodgers</peanswer>
+				<peanswer>6 or more</peanswer>
+				<peanswer>More than 6 months</peanswer>
+				<peanswer>Local authority or DWP / DSS referral</peanswer>
+			</peanswers>
+		</answer>
+	</question>
+
+	<question>
+		<aggregatorquestions>
+			<question>How many adults live in the property?</question>
+		</aggregatorquestions>
+
+	</question>
+
+	<question>
+		<aggregatorquestions>
+			<question>How many children live in the property?</question>
+		</aggregatorquestions>
+
+	</question>
+
+	<question>
+		<aggregatorquestions>
+			<question>When is property normally unoccupied?</question>
+		</aggregatorquestions>
+		<pequestions>
+			<question>When is the property usually occupied?</question>
+		</pequestions>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>Unoccupied All Day</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>During the night</peanswer>
+			</peanswers>
+		</answer>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>Unoccupied All Night</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>During the day</peanswer>
+			</peanswers>
+		</answer>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>Occupied Day and Night</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>Both day and night</peanswer>
+			</peanswers>
+		</answer>
+
+	</question>
+
+	<question>
+		<aggregatorquestions>
+			<question>For how many days in a row is the property left empty (e.g.
+				holidays)?</question>
+		</aggregatorquestions>
+		<pequestions>
+			<question>When is the property usually occupied?</question>
+			<question>For how many months has the property been unoccupied?</question>
+			<question>How long will the property be unoccupied (including the
+				amount of time to-date)?</question>
+			<question>Has the central heating system been drained and will the
+				property be checked on a fortnightly basis?</question>
+			<question>Reason for unoccupancy?</question>
+
+		</pequestions>
+
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>Never</aggregatoranswer>
+			</aggregatoranswers>
+
+		</answer>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>1 - 14 days in a row</aggregatoranswer>
+			</aggregatoranswers>
+
+		</answer>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>15 - 30 days in a row</aggregatoranswer>
+			</aggregatoranswers>
+
+		</answer>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>31 - 45 days in a row</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>It is unoccupied for 30 days or more</peanswer>
+				<peanswer></peanswer>
+				<peanswer>30 - 60 days</peanswer>
+				<peanswer>Yes</peanswer>
+				<peanswer>Other</peanswer>
+
+			</peanswers>
+		</answer>
+
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>46 - 60 days in row</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>It is unoccupied for 30 days or more</peanswer>
+				<peanswer></peanswer>
+				<peanswer>30 - 60 days</peanswer>
+				<peanswer>Yes</peanswer>
+				<peanswer>Other</peanswer>
+
+			</peanswers>
+		</answer>
+
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>61+ days in a row</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>It is unoccupied for 30 days or more</peanswer>
+				<peanswer></peanswer>
+				<peanswer>61 - 90 days</peanswer>
+				<peanswer>Yes</peanswer>
+				<peanswer>Other</peanswer>
+
+			</peanswers>
+		</answer>
+	</question>
+
+	<question>
+		<aggregatorquestions>
+			<question>Does anybody living in the property smoke?</question>
+		</aggregatorquestions>
+		<pequestions>
+			<question>Does anybody living in the property smoke?</question>
+		</pequestions>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>Yes</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>Yes</peanswer>
+			</peanswers>
+		</answer>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>No</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>No</peanswer>
+			</peanswers>
+		</answer>
+
+	</question>
+	<question>
+		<aggregatorquestions>
+			<question>Is the property used for your business purposes?</question>
+		</aggregatorquestions>
+		<pequestions>
+			<question>Your property is NOT used for business purposes</question>
+		</pequestions>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>Clerical business use only</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>I disagree</peanswer>
+			</peanswers>
+		</answer>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>No business or professional use</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>I agree</peanswer>
+			</peanswers>
+		</answer>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>Other business use</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>I disagree</peanswer>
+			</peanswers>
+		</answer>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>Regular business vistors to property</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>I disagree</peanswer>
+			</peanswers>
+		</answer>
+	</question>
+	<question>
+		<aggregatorquestions>
+			<question>Is the property self contained with a lockable entrance?</question>
+		</aggregatorquestions>
+		<pequestions>
+			<question>Is your property self-contained, i.e. it has its own front
+				door with its own lockable entrance?</question>
+		</pequestions>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>Yes</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>Yes</peanswer>
+			</peanswers>
+		</answer>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>No</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>No</peanswer>
+			</peanswers>
+		</answer>
+
+	</question>
+	<question>
+		<aggregatorquestions>
+			<question>Does the property have an alarm system installed?</question>
+		</aggregatorquestions>
+		<pequestions>
+			<question>Does your property have a working burglar alarm?</question>
+		</pequestions>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>Yes</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>Yes</peanswer>
+			</peanswers>
+		</answer>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>No</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>No</peanswer>
+			</peanswers>
+		</answer>
+
+	</question>
+	<question>
+		<aggregatorquestions>
+			<question>Has the alarm been fitted and maintained annually by a
+				NACOSS, NSI or SSAIB approved company?</question>
+		</aggregatorquestions>
+		<pequestions>
+			<question>Is the alarm checked annually by a qualified alarm
+				contractor (a member of NACOSS, SSAIB or NSI)?</question>
+		</pequestions>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>Yes</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>Yes</peanswer>
+			</peanswers>
+		</answer>
+
+	</question>
+	<question>
+		<aggregatorquestions>
+			<question>Is the alarm monitored?</question>
+		</aggregatorquestions>
+		<pequestions>
+			<question>Is the alarm checked annually by a qualified alarm
+				contractor (a member of NACOSS, SSAIB or NSI)?</question>
+		</pequestions>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>Yes</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>Yes</peanswer>
+			</peanswers>
+		</answer>
+
+	</question>
+
+	<question>
+		<aggregatorquestions>
+			<question>What kind of lock is fitted to your main external door?</question>
+		</aggregatorquestions>
+		<pequestions>
+			<question>Please specify what type of lock is fitted to your main
+				entrance</question>
+		</pequestions>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>5 lever mortice deadlock conforming to BS 3261</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>5 lever mortice deadlock conforming to BS3621</peanswer>
+			</peanswers>
+		</answer>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>5 lever mortice deadlock</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>5 lever mortice deadlock</peanswer>
+			</peanswers>
+		</answer>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>Key operated multi point lock</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>Key operated multipoint locking system</peanswer>
+			</peanswers>
+		</answer>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>Rim automatic deadlatch with key locking handle</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>Rim deadlock</peanswer>
+			</peanswers>
+		</answer>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>Other lock type</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>Other locks</peanswer>
+			</peanswers>
+		</answer>
+	</question>
+	<question>
+		<aggregatorquestions>
+			<question>If you have any patio doors, what locks do they have?</question>
+		</aggregatorquestions>
+		<pequestions>
+			<question>Does your property have any French or patio doors?</question>
+		</pequestions>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>No patio doors</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>No</peanswer>
+			</peanswers>
+		</answer>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>Top &amp; bottom key operated lock</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>Yes</peanswer>
+			</peanswers>
+		</answer>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>Central rail key operated lock</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>Yes</peanswer>
+			</peanswers>
+		</answer>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>Key operated multi point lock</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>Yes</peanswer>
+			</peanswers>
+		</answer>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>Other lock type</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>Yes</peanswer>
+			</peanswers>
+		</answer>
+	</question>
+	<question>
+		<aggregatorquestions>
+			<question>What locks are there on any other external doors on the
+				property?</question>
+		</aggregatorquestions>
+		<pequestions>
+			<question>Does your property have any other external doors?</question>
+			<question>Please specify which type of lock is fitted to your other
+				external doors</question>
+		</pequestions>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>5 lever mortice deadlock conforming to BS 3621</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>Yes</peanswer>
+				<peanswer>5 lever mortice deadlock conforming to BS3621</peanswer>
+			</peanswers>
+		</answer>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>5 lever mortice deadlock</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>Yes</peanswer>
+				<peanswer>5 lever mortice deadlock</peanswer>
+			</peanswers>
+		</answer>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>Key operated multi point lock</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>Yes</peanswer>
+				<peanswer>Key operated multipoint locking system</peanswer>
+			</peanswers>
+		</answer>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>Rim automatic deadlatch with key locking handle</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>Yes</peanswer>
+				<peanswer>Rim deadlock</peanswer>
+			</peanswers>
+		</answer>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>Other lock type</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>Yes</peanswer>
+				<peanswer>Other locks</peanswer>
+			</peanswers>
+		</answer>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>No other external doors</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>No</peanswer>
+			</peanswers>
+		</answer>
+	</question>
+	<question>
+		<aggregatorquestions>
+			<question>Do all accessible windows (ground floor) have key operated
+				locks?</question>
+		</aggregatorquestions>
+		<pequestions>
+			<question>Do all externally accessible windows have key-operated
+				locks on them?</question>
+		</pequestions>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>Yes</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>Yes</peanswer>
+			</peanswers>
+		</answer>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>No</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>No</peanswer>
+			</peanswers>
+		</answer>
+
+	</question>
+	<question>
+		<aggregatorquestions>
+			<question>How many working smoke alarms are there?</question>
+		</aggregatorquestions>
+
+	</question>
+	<question>
+		<aggregatorquestions>
+			<question>Is there a local Neighbourhood Watch?</question>
+		</aggregatorquestions>
+
+	</question>
+	<question>
+		<aggregatorquestions>
+			<question>Title</question>
+		</aggregatorquestions>
+		<pequestions>
+			<question>Title</question>
+		</pequestions>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>Mr</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>Mr</peanswer>
+			</peanswers>
+		</answer>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>Mrs</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>Mrs</peanswer>
+			</peanswers>
+		</answer>
+
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>Ms</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>Ms</peanswer>
+			</peanswers>
+		</answer>
+
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>Miss</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>Miss</peanswer>
+			</peanswers>
+		</answer>
+	</question>
+
+	<question>
+		<aggregatorquestions>
+			<question>First name(s)</question>
+		</aggregatorquestions>
+		<pequestions>
+			<question>First name(s)</question>
+		</pequestions>
+	</question>
+	<question>
+		<aggregatorquestions>
+			<question>Surname</question>
+		</aggregatorquestions>
+		<pequestions>
+			<question>Last name</question>
+		</pequestions>
+	</question>
+	<question>
+		<aggregatorquestions>
+			<question>Date of Birth (dd/mm/yyyy)</question>
+		</aggregatorquestions>
+		<pequestions>
+			<question>What is your date of birth?</question>
+		</pequestions>
+	</question>
+	<question>
+		<aggregatorquestions>
+			<question>When did you last become a UK resident?</question>
+		</aggregatorquestions>
+		<pequestions>
+			<question></question>
+		</pequestions>
+	</question>
+	<question>
+		<aggregatorquestions>
+			<question>Marital status</question>
+		</aggregatorquestions>
+		<pequestions>
+			<question>What is your marital status?</question>
+		</pequestions>
+	</question>
+	<question>
+		<aggregatorquestions>
+			<question>Employment status</question>
+		</aggregatorquestions>
+		<pequestions>
+			<question>What is your occupation?</question>
+		</pequestions>
+	</question>
+	<question>
+		<aggregatorquestions>
+			<question>What is your occupation?</question>
+		</aggregatorquestions>
+		<pequestions>
+			<question>What is your occupation?</question>
+		</pequestions>
+	</question>
+	<question>
+		<aggregatorquestions>
+			<question>What is your business type?</question>
+		</aggregatorquestions>
+		<pequestions>
+			<question></question>
+		</pequestions>
+	</question>
+
+	<question>
+		<aggregatorquestions>
+			<question>What is your business type?</question>
+		</aggregatorquestions>
+		<pequestions>
+			<question></question>
+		</pequestions>
+	</question>
+
+	<question>
+		<aggregatorquestions>
+			<question>Do you have a part-time occupation?</question>
+		</aggregatorquestions>
+		<pequestions>
+			<question></question>
+		</pequestions>
+	</question>
+
+	<question>
+		<aggregatorquestions>
+			<question>What is your part-time occupation?</question>
+		</aggregatorquestions>
+		<pequestions>
+			<question></question>
+		</pequestions>
+	</question>
+
+	<question>
+		<aggregatorquestions>
+			<question>For this job, what is your employer's business type?</question>
+		</aggregatorquestions>
+		<pequestions>
+			<question></question>
+		</pequestions>
+	</question>
+
+	<question>
+		<aggregatorquestions>
+			<question>Daytime Telephone</question>
+		</aggregatorquestions>
+		<pequestions>
+			<question>Main telephone number</question>
+		</pequestions>
+	</question>
+
+	<question>
+		<aggregatorquestions>
+			<question>Mobile Telephone</question>
+		</aggregatorquestions>
+		<pequestions>
+			<question>Main telephone number</question>
+		</pequestions>
+	</question>
+
+	<question>
+		<aggregatorquestions>
+			<question>Email address</question>
+		</aggregatorquestions>
+		<pequestions>
+			<question>Customer lookup</question>
+		</pequestions>
+
+	</question>
+	<question>
+		<aggregatorquestions>
+			<question>House number or name</question>
+		</aggregatorquestions>
+		<pequestions>
+			<question>Address of property to be insured</question>
+		</pequestions>
+
+	</question>
+	<question>
+		<aggregatorquestions>
+			<question>Postcode</question>
+		</aggregatorquestions>
+		<pequestions>
+			<question>Address of property to be insured</question>
+		</pequestions>
+
+	</question>
+	<question>
+		<aggregatorquestions>
+			<question>Do you wish to have another person named on the policy?</question>
+		</aggregatorquestions>
+		<pequestions>
+			<question>Would you like to add a joint policyholder?</question>
+		</pequestions>
+	</question>
+	<question>
+		<aggregatorquestions>
+			<question>First name(s) | Tag :Joint Policyholder</question>
+		</aggregatorquestions>
+		<pequestions>
+			<question>First name(s) | Tag :Joint Policyholder</question>
+		</pequestions>
+	</question>
+	<question>
+		<aggregatorquestions>
+			<question>Surname | Tag :Joint Policyholder</question>
+		</aggregatorquestions>
+		<pequestions>
+			<question> Surname | Tag :Joint Policyholder</question>
+		</pequestions>
+	</question>
+	<question>
+		<aggregatorquestions>
+			<question>Date of Brith | Tag :Joint Policyholder</question>
+		</aggregatorquestions>
+		<pequestions>
+			<question>Date of Brith | Tag :Joint Policyholder</question>
+		</pequestions>
+	</question>
+
+	<question>
+		<aggregatorquestions>
+			<question>Marital Status | Tag :Joint Policyholder</question>
+		</aggregatorquestions>
+		<pequestions>
+			<question>Marital Status | Tag :Joint Policyholder</question>
+		</pequestions>
+	</question>
+
+	<question>
+		<aggregatorquestions>
+			<question>Relation to proposer | Tag :Joint Policyholder</question>
+		</aggregatorquestions>
+		<pequestions>
+			<question>Relation to proposer | Tag :Joint Policyholder</question>
+		</pequestions>
+	</question>
+
+	<question>
+		<aggregatorquestions>
+			<question>Joint Proposer Employment status</question>
+		</aggregatorquestions>
+		<pequestions>
+			<question></question>
+		</pequestions>
+	</question>
+
+	<question>
+		<aggregatorquestions>
+			<question>What do they do for a living?</question>
+		</aggregatorquestions>
+		<pequestions>
+			<question></question>
+		</pequestions>
+	</question>
+
+	<question>
+		<aggregatorquestions>
+			<question>What's their employer's business type?</question>
+		</aggregatorquestions>
+		<pequestions>
+			<question></question>
+		</pequestions>
+	</question>
+
+	<question>
+		<aggregatorquestions>
+			<question>Do they have a part-time occupation?</question>
+		</aggregatorquestions>
+		<pequestions>
+			<question></question>
+		</pequestions>
+	</question>
+
+	<question>
+		<aggregatorquestions>
+			<question>How would you like to pay for the insurance policy?</question>
+		</aggregatorquestions>
+
+	</question>
+
+
+	<question>
+		<aggregatorquestions>
+			<question>Was the claim made at this property?</question>
+		</aggregatorquestions>
+
+	</question>
+
+
+	<question>
+		<aggregatorquestions>
+			<question>How many years no claim discount do you have for building
+				insurance?</question>
+		</aggregatorquestions>
+
+	</question>
+
+	<question>
+		<aggregatorquestions>
+			<question>Buildings Voluntary excess</question>
+		</aggregatorquestions>
+
+	</question>
+
+	<question>
+		<aggregatorquestions>
+			<question>What would you like the insurance to cover?</question>
+		</aggregatorquestions>
+		<pequestions>
+			<question>About the cover you want</question>
+		</pequestions>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer></aggregatoranswer>
+				The building and its contents
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>Buildings &amp; Contents</peanswer>
+			</peanswers>
+		</answer>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>The building only</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>Buildings only</peanswer>
+			</peanswers>
+		</answer>
+
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>The contents only</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>Contents only</peanswer>
+			</peanswers>
+		</answer>
+	</question>
+	<question>
+		<aggregatorquestions>
+			<question>When should the insurance policy begin?</question>
+		</aggregatorquestions>
+		<pequestions>
+			<question>When would you like cover to start?</question>
+		</pequestions>
+
+	</question>
+	<question>
+		<aggregatorquestions>
+			<question>Have you, any proposed joint party, or anyone living at the
+				property ever been bankrupt?</question>
+		</aggregatorquestions>
+		<pequestions>
+			<question>None of the occupants have been declared bankrupt within 5
+				years</question>
+		</pequestions>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>Yes</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>I disagree</peanswer>
+			</peanswers>
+		</answer>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>No</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>I agree</peanswer>
+			</peanswers>
+		</answer>
+
+	</question>
+	<question>
+		<aggregatorquestions>
+			<question>Have you or any occupant ever had any special terms imposed
+				on previous insurance policies?</question>
+		</aggregatorquestions>
+		<pequestions>
+			<question>None of the occupants have had their home insurance
+				cancelled or special terms imposed within 5 years</question>
+		</pequestions>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>Yes</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>I disagree</peanswer>
+			</peanswers>
+		</answer>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>No</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>I agree</peanswer>
+			</peanswers>
+		</answer>
+
+	</question>
+	<question>
+		<aggregatorquestions>
+			<question>Have you or any other occupant ever had insurance cancelled
+				or declined?</question>
+		</aggregatorquestions>
+		<pequestions>
+			<question>None of the occupants have had their home insurance
+				cancelled or special terms imposed within 5 years</question>
+		</pequestions>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>Yes</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>I disagree</peanswer>
+			</peanswers>
+		</answer>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>No</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>I agree</peanswer>
+			</peanswers>
+		</answer>
+	</question>
+	<question>
+		<aggregatorquestions>
+			<question>Do any occupants have any criminal convictions or pending
+				prosecutions?</question>
+		</aggregatorquestions>
+		<pequestions>
+			<question>None of the occupants have been convicted or charged with
+				any offence other than a motoring offence</question>
+		</pequestions>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>Yes</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>I disagree</peanswer>
+			</peanswers>
+		</answer>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>No</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>I agree</peanswer>
+			</peanswers>
+		</answer>
+
+	</question>
+	<question>
+		<aggregatorquestions>
+			<question>Have you or anyone living at the property had any insurance
+				claims in the last 5 years?</question>
+		</aggregatorquestions>
+		<pequestions>
+			<question>In the past 3 years, has anyone living at the property made
+				any home insurance claims or reported any losses to an insurer?</question>
+		</pequestions>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>Yes</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>Yes</peanswer>
+			</peanswers>
+		</answer>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>No</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>No</peanswer>
+			</peanswers>
+		</answer>
+
+	</question>
+	<question>
+		<aggregatorquestions>
+			<question>What type of claim was it?</question>
+		</aggregatorquestions>
+		<pequestions>
+			<question>What type of claim was it?</question>
+		</pequestions>
+
+	</question>
+	<question>
+		<aggregatorquestions>
+			<question>What date was the claim made on?</question>
+		</aggregatorquestions>
+		<pequestions>
+			<question>What date was the claim or incident?</question>
+		</pequestions>
+
+	</question>
+	<question>
+		<aggregatorquestions>
+			<question>What was the cause of the claim?</question>
+		</aggregatorquestions>
+		<pequestions>
+			<question>Please provide more details about the claim or incident</question>
+		</pequestions>
+
+	</question>
+	<question>
+		<aggregatorquestions>
+			<question>Current Claim Status</question>
+		</aggregatorquestions>
+		<pequestions>
+			<question>Has the claim been settled?</question>
+		</pequestions>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>Outstanding</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>No</peanswer>
+			</peanswers>
+		</answer>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>Settled</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>Yes</peanswer>
+			</peanswers>
+		</answer>
+
+	</question>
+	<question>
+		<aggregatorquestions>
+			<question>Claim amount (in £ pounds)</question>
+		</aggregatorquestions>
+		<pequestions>
+			<question>How much was the claim for?</question>
+		</pequestions>
+
+	</question>
+	<question>
+		<aggregatorquestions>
+			<question>What would the cost be to rebuild the property</question>
+		</aggregatorquestions>
+		<pequestions>
+			<question>Please enter the rebuild cost of your property</question>
+		</pequestions>
+
+	</question>
+	<question>
+		<aggregatorquestions>
+			<question>What is the current market value of the property?</question>
+		</aggregatorquestions>
+		<pequestions>
+			<question>Please enter the current market value of your property</question>
+		</pequestions>
+
+	</question>
+	<question>
+		<aggregatorquestions>
+			<question>Do you wish to cover your building against accidental
+				damage?</question>
+		</aggregatorquestions>
+		<pequestions>
+			<question>Would you like to include upgraded accidental damage cover
+				for Buildings?</question>
+		</pequestions>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>Yes</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>Yes</peanswer>
+			</peanswers>
+		</answer>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>No</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>No</peanswer>
+			</peanswers>
+		</answer>
+
+	</question>
+	<question>
+		<aggregatorquestions>
+			<question>Please state the sum to be insured for your contents.
+				(The
+				sum should reflect the full replacement cost as new for all
+				contents.)</question>
+		</aggregatorquestions>
+		<pequestions>
+			<question>How much Contents cover do you require? This is to cover
+				everything in your home, including valuables
+			</question>
+			<question>Is a total of £10,000 enough to cover all valuables (each
+				worth £2,000 or less) inside your home?</question>
+		</pequestions>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>£0-9999</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>£0-9999</peanswer>
+				<peanswer>Yes</peanswer>
+			</peanswers>
+
+		</answer>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>£10,000+</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>£10,000+</peanswer>
+				<peanswer>No</peanswer>
+			</peanswers>
+		</answer>
+
+	</question>
+	<question>
+		<aggregatorquestions>
+			<question>Do you want to insure any bicycles or laptops?</question>
+		</aggregatorquestions>
+		<pequestions>
+			<question>Do you require cover for bicycles away from home?</question>
+		</pequestions>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>Yes</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>Yes</peanswer>
+			</peanswers>
+		</answer>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>No</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>No</peanswer>
+			</peanswers>
+		</answer>
+
+	</question>
+	<question>
+		<aggregatorquestions>
+			<question>Please enter a description for this item</question>
+		</aggregatorquestions>
+		<pequestions>
+			<question>Description</question>
+		</pequestions>
+
+	</question>
+	<question>
+		<aggregatorquestions>
+			<question>Please give a value to this item</question>
+		</aggregatorquestions>
+		<pequestions>
+			<question>Value</question>
+		</pequestions>
+
+	</question>
+	<question>
+		<aggregatorquestions>
+			<question>Do you want to insure specific items worth over £1000? (Not
+				including bicycles or laptops)</question>
+		</aggregatorquestions>
+		<pequestions>
+			<question>Do you require cover for any personal possessions (each
+				worth £2,000 or less) away from home?</question>
+		</pequestions>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>YEs</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>No</peanswer>
+			</peanswers>
+		</answer>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>No</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>Yes</peanswer>
+			</peanswers>
+		</answer>
+
+	</question>
+	<question>
+		<aggregatorquestions>
+			<question>Select type of item</question>
+		</aggregatorquestions>
+		<pequestions>
+			<question>Select item</question>
+		</pequestions>
+
+	</question>
+	<question>
+		<aggregatorquestions>
+			<question>Would you like to add cover to this item for outside the
+				home?</question>
+		</aggregatorquestions>
+		<pequestions>
+			<question>Items to be covered</question>
+		</pequestions>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>Yes</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>In the home and away from home</peanswer>
+			</peanswers>
+		</answer>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>No</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>In the home only</peanswer>
+			</peanswers>
+		</answer>
+
+	</question>
+	<question>
+		<aggregatorquestions>
+			<question>Personal Possessions Cover</question>
+		</aggregatorquestions>
+		<pequestions>
+			<question>Do you require cover for any personal possessions (each
+				worth £2,000 or less) away from home?</question>
+			<question>How much cover do you require for unspecified items away
+				from home?</question>
+		</pequestions>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer></aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer></peanswer>
+			</peanswers>
+		</answer>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer></aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer></peanswer>
+			</peanswers>
+		</answer>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer></aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer></peanswer>
+			</peanswers>
+		</answer>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer></aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer></peanswer>
+			</peanswers>
+		</answer>
+	</question>
+
+	<question>
+		<aggregatorquestions>
+			<question>How many years no claim discount do you have for contents
+				insurance?</question>
+		</aggregatorquestions>
+
+
+	</question>
+
+	<question>
+		<aggregatorquestions>
+			<question>Contents Voluntary excess</question>
+		</aggregatorquestions>
+
+
+	</question>
+
+	<question>
+		<aggregatorquestions>
+			<question>Do you require Accidental Damage Cover For Contents?</question>
+		</aggregatorquestions>
+		<pequestions>
+			<question>Would you like to include upgraded accidental damage cover
+				for Contents?</question>
+		</pequestions>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>Yes</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>Yes</peanswer>
+			</peanswers>
+		</answer>
+		<answer>
+			<aggregatoranswers>
+				<aggregatoranswer>No</aggregatoranswer>
+			</aggregatoranswers>
+			<peanswers>
+				<peanswer>No</peanswer>
+			</peanswers>
+		</answer>
+
+	</question>
+</questions>
